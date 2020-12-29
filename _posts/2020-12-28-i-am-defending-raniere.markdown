@@ -248,3 +248,5 @@ Keith was not convicted or even charged with tax evasion. The charge was identit
 # CONCLUSION
 
 As you can see, I am a staunch defender of Keith Raniere, I believe in his innocence, and I believe he did not get a fair trial. I welcome your comments.
+
+Note: This article originally appeared on [FrankReport](https://frankreport.com/2020/12/28/suneel-i-am-defending-raniere-because-the-prosecution-was-wrong-the-judge-biased-and-the-defendant-is-innocent/).
