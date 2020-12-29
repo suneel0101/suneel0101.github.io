@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I Am Defending Raniere Because the Prosecution Was Wrong, the Judge Was Biased, and the Defendant is Innocent."
+title:  "A Different Perspective on Keith Raniere's Case"
 date:   2020-12-28 17:56:00 -0500
 categories:
 ---
