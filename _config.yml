@@ -22,15 +22,15 @@
 title:          "Suneel Chakravorty"
 description:    ""
 baseurl:        ""
-url:            "https://www.suneelchakravorty.com"
+url:            "https://www.sunchak.com"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: "G-WJMR74ZL4S"
 
 # Author
 author:
   name:         Suneel Chakravorty
-  url:          https://www.suneelchakravorty.com
+  url:          https://www.sunchak.com
 
 remote_theme: chesterhow/tale
 
