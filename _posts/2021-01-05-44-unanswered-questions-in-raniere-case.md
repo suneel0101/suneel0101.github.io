@@ -9,7 +9,7 @@ In [my recent article](/2020-12-28-my-defense-of-keith-raniere-part-1), I analyz
 
 I have a plan to redress this injustice.
 
-Before Frank Report readers get too upset, let me say that I do not have all the answers. That’s why I am asking questions and investigating. Some of you might say Keith is convicted, so the matter is settled. But if it was unjust, untrue, if it was a railroading of an innocent man, then it is not settled. It will never be settled if justice was not done.
+Before readers get too upset, let me say that I do not have all the answers. That’s why I am asking questions and investigating. Some of you might say Keith is convicted, so the matter is settled. But if it was unjust, untrue, if it was a railroading of an innocent man, then it is not settled. It will never be settled if justice was not done.
 
 There is no infallibility I know of ascribed to the US criminal justice system. Innocent people get convicted all the time, as many studies show.
 
