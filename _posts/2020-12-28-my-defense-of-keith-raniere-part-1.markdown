@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Different Perspective on Keith Raniere's Case"
+title:  "My Defense of Keith Raniere, Part 1"
 date:   2020-12-28 17:56:00 -0500
 categories:
 ---
