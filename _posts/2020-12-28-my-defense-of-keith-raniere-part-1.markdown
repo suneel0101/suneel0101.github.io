@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Overview of USA v. Keith Raniere"
+title:  "A Different View of USA v. Keith Raniere"
 date:   2020-12-28 17:56:00 -0500
 categories:
 ---
