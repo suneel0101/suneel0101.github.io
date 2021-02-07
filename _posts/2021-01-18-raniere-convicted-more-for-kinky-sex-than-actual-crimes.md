@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evidentiary Value of Kinky Sex"
+title:  "Did Raniere's Kinky Sex Have Probative Value?"
 date:   2021-01-18 02:32:00 -0500
 categories:
 ---
