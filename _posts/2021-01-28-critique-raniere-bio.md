@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Breakdown of Raniere's Infamous Biography"
+title:  "Critique of Raniere's Infamous Biography"
 date:   2021-01-28 01:24:00 -0500
 categories:
 ---
