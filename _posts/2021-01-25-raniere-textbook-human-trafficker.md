@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I Respond to Healthcare Professional Who Said Raniere Was a 'Textbook Human Trafficker'"
+title:  "Is Raniere a 'Textbook Human Trafficker'?"
 date:   2021-01-25 01:47:00 -0500
 categories:
 ---

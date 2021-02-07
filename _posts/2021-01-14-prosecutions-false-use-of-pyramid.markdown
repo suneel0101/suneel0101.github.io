@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prosecution's False Use of 'Pyramid' Meant to Dirty Keith Without Evidence"
+title:  "Prosecution's Prejudicial Use of 'Pyramid'"
 date:   2021-01-14 02:11:00 -0500
 categories:
 ---

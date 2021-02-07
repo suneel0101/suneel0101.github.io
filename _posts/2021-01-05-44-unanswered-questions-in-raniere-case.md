@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "44 Unanswered Questions in Raniere Case"
+title:  "44 Questions in Raniere Case"
 date:   2021-01-05 02:44:00 -0500
 categories:
 ---

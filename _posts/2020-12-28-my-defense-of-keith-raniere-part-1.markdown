@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Defense of Keith Raniere, Part 1"
+title:  "My Overview of USA v. Keith Raniere"
 date:   2020-12-28 17:56:00 -0500
 categories:
 ---
@@ -61,24 +61,16 @@ So they went to Mexico. Period. It was not a flight from justice.
 
 Thankfully, Keith was able to enjoy a few golden moments with his infant son, from whom he is now separated by his imprisonment. 
 
-{% include image.html url="/assets/2020-12-28/hector-and-keith.jpg" description="Hector, father of Camila, Daniela, and Mariana, holds his grandson, while Keith Raniere openly drives a golf cart down a street in Mexico." height="320" %}
-
-
 # THE INDICTMENT
 **"Note: It took almost two months in total to indict me, during which there were grand jury hearings, and a lot of investigation. Shouldn’t a person be ready to be indicted if incarcerated? Shouldn’t the privilege of arresting by information be honored by the subsequent indictment being the first action the grand jury takes? If not, was the complaint sufficient?”**
 
 After his kidnapping, and following a pattern of stark irregularities in this case, the prosecution needed additional investigation through grand jury hearings before they had enough “evidence” to indict him. 
-
-{% include image.html url="/assets/2020-12-28/indictment_pic.png" description="'Arrest' first, indictment afterwards." height="250" %}
 
 # THE BAIL PACKAGE
 
 **"I am pledged to non-violence, lead a peace movement in Mexico, and the peace segment of the Pan-American games we produced reached an estimated 25 million people. For this we were nominated for three daytime Emmy Awards and won several Tele Awards. I have never owned a weapon, used any drugs (including smoking and recreational drinking), or had a criminal history.**
 
 **For a bail package, my attorneys offered two armed guards with a supervisor (guarding me 24/7), in a well-vetted apartment, all overseen by the former head of the Secret Service who appeared at my bail hearing to affirm this. I would also wear an ankle monitor and only have contact with my attorneys. Additionally, we posted a $10 million bond. My bail application was denied."**
-
-
-{% include image.html url="/assets/2020-12-28/Judge_Denies_Bail.png" description="The best way to ensure you win a case is to make sure the defendant is locked in an unhealthy cage and can’t defend himself." height="200" %}
 
 
 Keith’s attorneys proposed a bail package that would have made it impossible for Keith to escape or hurt others, even if he wanted to. Note that the peace movement Keith mentions was documented by filmmaker and friend-turned-adversary, Mark Vicente [[see the trailer here](https://www.youtube.com/watch?v=grlZEZDeJik)].
@@ -91,11 +83,10 @@ The judge denied the motion for bail. This made it infinitely harder for Keith t
 
 **All are innocent, but all plead guilty; two even cooperated, with one of them testifying.”**
 
-{% include image.html url="/assets/2020-12-28/clare-bail.jpg" description="" height="400" %}
+??????? had no criminal record, cooperated with law enforcement in returning to the country well in-advance of any issues and moved to NYC in anticipation of being indicted. There was no need for such high bail. But the optics of the $100 million bail, I believe, were meant to impress upon the public and the jury that this woman was liable to run away because of her guilt. 
 
-Clare Bronfman had no criminal record, cooperated with law enforcement in returning to the country well in-advance of any issues and moved to NYC in anticipation of being indicted. There was no need for such high bail. But the optics of the $100 million bail, I believe, were meant to impress upon the public and the jury that this woman was liable to run away because of her guilt. 
-
-Leading up to Keith’s “kidnapping,” there had been significant negative media coverage of NXIVM, starting with [the NY Times article by Barry Meier](https://www.nytimes.com/2017/10/17/nyregion/nxivm-women-branded-albany.html). Once Clare Bronfman’s bail was set at $100 million dollars, the chances of getting anything close to media neutrality went to zero.
+Leading up to Keith’s “kidnapping,” there had been significant negative media coverage of NXIVM, starting with [the NY Times article by Barry Meier](https://www.nytimes.com/2017/10/17/nyregion/nxivm-women-branded-albany.html). Once 
+??????? bail was set at $100 million dollars, the chances of getting anything close to media neutrality went to zero.
 
 This was a case of extremes and those extremes include a fabulously wealthy woman who was charged with financial crimes amounting to less than $100k, who was marked as a flight risk despite the fact that she came back to the United States from Mexico when she learned of her potential indictment and cooperated with law enforcement every inch of the way.
 
@@ -106,8 +97,6 @@ The $100 million bail was an indication that this was going to be handled in ext
 **“Ultimately, because I was charged with RICO (Racketeer Influenced and Corrupt Organizations Act… and, in my specific case, any friend or associate could be charged as a co-conspirator, I could not see or contact any of my family, friends, or co-defendants for the fifteen months before my trial…**
 
 **… Additionally, at trial it was impossible to call any defense witnesses I knew, for they could be considered co-conspirators in RICO and would strongly be advised to use their Fifth Amendment rights against self-incrimination.”**
-
-{% include image.html url="/assets/2020-12-28/rico_act_godfather.png" description="" height="140" %}
 
 In my opinion, RICO was an inappropriate charge. Look at the predicate acts. They are not at all comparable to typical organized crime matters. They were largely innocuous things like allegedly altering a video tape, keylogging a computer, and using a deceased person’s credit card. They were not even alleged to be done by the same people for any common purpose. Those things should have been charged separately but they could not be because either the statute of limitations expired or they weren’t crimes at all.
 
@@ -138,8 +127,6 @@ As I wrote above, I attended the trial every day and can corroborate that jury m
 It would not be possible to determine the facts of a six-week trial in less than three hours.  Perhaps the jury did not convict Keith on the facts but on their personal opinion they formed of him throughout a trial, where the judge let the prosecution run amok, dirtying him up with every salacious tidbit about his lifestyle regardless of whether it was accurate, wildly exaggerated or remotely related to the charges or not.
 
 # “PYRAMID” ORGANIZATIONS
-{% include image.html url="/assets/2020-12-28/amazon.jpg" description="Is Amazon a 'pyramid' organization? When we want to show respect to an organization, we call it a company. " height="300" %}
-
 **“The term “pyramid organization” is an example of hate. This is possibly the least offensive hate conduit in my case, yet its innocuous nature serves to illustrate the hate’s subtlety…**
 
 **I supposedly create “pyramid organizations” — different from normal “organizations”. The implication is somehow “pyramid” is improper: I am at the “top” or “apex”, control everything unchecked, in some “sinister” and unspecified way. How is “pyramid” different than a restaurant, private corporation, or even the US Attorney’s office? Some will say each of these likely answer to some check and balance system so even with a small, sole proprietorship — a restaurant for example — that owner must answer to the Health Department. If it were true I created businesses wherein I answer to no one, I still, in the least, answer to the law (If I didn’t, I would not be incarcerated.)**
@@ -149,12 +136,7 @@ It would not be possible to determine the facts of a six-week trial in less than
 Keith points out that the prosecution used the pejorative “pyramid” for his organizations instead of businesses or companies or even multi-level marketing companies – none of which are illegal. A pyramid scheme is illegal and yet he was not charged with running a pyramid scheme. The fact that the judge let the prosecution use this term repeatedly despite it being literally wrong shows again how the government created a negative stereotype image of him. 
 
 # THE ABORTION RECORDS
-
-{% include image.html url="/assets/2020-12-28/medical_records.jpg" description="Is Amazon a 'pyramid' organization? When we want to show respect to an organization, we call it a company. " height="300" %}
-
 What the hell do abortion records have to do with any of the charges?
-
-You’ve heard of a prosecution trying to “dirty” Keith up. But using the abortion records, they wanted to “bloody” Keith up.
 
 It is preposterous to believe that any woman was forced to get an abortion because the woman herself has to consent to an abortion and she has to appear and be alone with the doctor. This whole case is historic because it is all about proclaiming to the world that women have no agency. 
 
@@ -163,10 +145,6 @@ It is preposterous to believe that any woman was forced to get an abortion becau
 Note that the prosecution also mentioned abortions to the media. For example, US Attorney Richard Donoghue stated in his post-verdict press statement that Keith was responsible for “compelled abortions” [[see video clip of Donoghue’s comments to the press](https://www.youtube.com/watch?v=uY1wf_0GOdU)], although there was no evidence presented at trial and indeed no woman was ever compelled to have an abortion, nor did anyone testify she was. 
 
 # NICOLE’S TEXTS TO KEITH THAT WERE NOT ALLOWED
-
-{% include image.html url="/assets/2020-12-28/texting.png" description="The above screenshot is a generic example of 'sexting.'" height="350" %}
-
-
 The so-called sex trafficking victim in this case, Nicole sent similar messages to the defendant, such as asking for “hot, rough sex” (Pg. 4214 in the [transcripts](https://www.scribd.com/document/488945528/Telegram-Chats-between-Nicole-and-Keith-not-allowed-into-evidence)). This is not what you would expect a sex trafficking victim to text. This is why one might even think that the defendant might have been confused and thought she actually wanted to be with him.
 
 **“In contrast to the over-permissiveness of the above is a decision relating to the sex trafficking charge. An essential witness for the prosecution (and an alleged victim) lives a double life: On the normal, plain side, she presents herself as child-like, family loving, and innocent. On the alternative side, she has had a significant partner with an international reputation as a sexual “bad boy” with both civil and criminal challenges relating to sex. Her alleged sex trafficking experience was a self-styled enactment of a fantasy relating directly to her past, more extreme, sexual experiences. All of her alternative activities, fantasies, and proof of these things were barred from my trial. This was allegedly to “protect” the prosecution’s witness, but was done at the expense of justice.”**
@@ -202,10 +180,6 @@ However, Nicole’s sex act would not have qualified as sex trafficking under th
 The only way they squeaked up to sex trafficking was by the judge deliberately giving a non-pattern instruction (in essence, creating a new law from the bench) where any sex that results in someone getting a social benefit could be considered sex trafficking.
 
 If this became precedent, the ramifications could be extraordinary. 
-{% include image.html url="/assets/2020-12-28/Adams_Quote.png" description="It is more important that innocence should be protected, than it is, that guilt be punished… when innocence itself is brought to the bar and condemned, especially to die, the subject will exclaim, ‘it is immaterial to me whether I behave well or ill, for virtue itself is no security.’ And if such a sentiment as this were to take hold in the mind of the subject that would be the end of all security whatsoever” — John Adams, 1770" height="350" %}
-
-
-Many believe that John Adams was a prescient man for the ages. It is nice to see he encapsulated Keith Raniere’s situation almost to the letter. An innocent man should not be in prison.
 
 # THE FORCED LABOR
 
@@ -216,10 +190,8 @@ Many believe that John Adams was a prescient man for the ages. It is nice to see
 **Considering the deep sorrow surrounding the death of my well-loved, 30-year partner, it is cruel to charge this baseless count. It is also insulting to all victims who have actually experienced the raw ugliness of true ‘forced labor’."**"
 
 This is what you usually think about when you hear the words “forced labor.”:
-{% include image.html url="/assets/2020-12-28/FORCED_LABOR.jpg" description="" height="350" %}
 
 This is what forced labor looked like in Keith’s case. Nicole did a little computer work in her own room and on her own time.
-{% include image.html url="/assets/2020-12-28/woman_on_computer.png" description="" height="350" %}
 
 The forced labor conviction in Keith’s case involves an adult woman doing several hours of video transcription and reading 50 or so essays written by Keith [[read the prosecution’s closing argument of this charge](https://www.scribd.com/document/488945944/Prosecution-s-closing-argument-of-Forced-Labor)]. This in and of itself makes a mockery of all true forced labor victims. But it also must be noted that the “victim” was not without the ability to be paid for her work.
 
@@ -238,8 +210,6 @@ Without “hate”, without dirtying him up with a raft of morally repugnant all
 **Answer: it is not possible, and the elements of the crime were not even possible. The prosecution used hate and created prejudice by showing large expenditures on a credit card to imply taxes were being ‘evaded’.**
 
 **The prosecution should be ashamed for this is a sleight-of-hand obscuring the truth and destroying innocence; all for the satisfaction of winning.”**
-
-{% include image.html url="/assets/2020-12-28/magic.jpeg" description="Let no one say that the prosecutors for the EDNY were second to any prestidigitator at sleight-of-hand." height="140" %}
 
 The prosecution’s argument that Keith’s motive to use his late partner’s credit card for identity theft was for the purposes of tax evasion, [tax evasion was not an actual charge]  is that a series of purchases were made on her credit card and that Keith has an opinion about taxes and their coercive nature. [[see their closing argument for this charge here](https://www.scribd.com/document/488946070/Prosecution-s-closing-argument-for-tax-evasion)]. 
 
